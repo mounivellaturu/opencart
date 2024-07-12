@@ -43,12 +43,14 @@
 	</section>
 	<section name="MavenProjectWizardArtifactPage">
 		<list key="groupId">
+			<item value="OpencartV121"/>
 			<item value="opencart"/>
 			<item value="seleniumwebdriver"/>
 		</list>
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="OpencartV121"/>
 			<item value="opencart"/>
 			<item value="seleniumwebdriver"/>
 		</list>
